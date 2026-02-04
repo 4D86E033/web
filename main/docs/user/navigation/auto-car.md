@@ -265,6 +265,7 @@ This information widget combines alert types such as **Pedestrian crosswalks** a
 
 - The **Speedometer widget** is [*profile dependent*](../personal/profiles.md), so if you change the settings for one profile, they will not be applied to another.
 - There is no option to customize the display of the **Speedometer widget** directly in *Android Auto*, you need to configure it in OsmAnd app before starting navigation and connecting your device to the vehicle.
+- When your current speed approaches the configured Speed limit tolerance or exceeds the speed limit, the widget changes its appearance (colors) to provide a warning. The appearance change may be animated.
 - For more information on how to add and configure the *Speedometer* widget to the display, please read the [Informational widgets article](../widgets/info-widgets.md#speedometer).
 
 
